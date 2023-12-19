@@ -16,7 +16,7 @@ import (
 	"golang.org/x/mod/semver"
 	"gopkg.in/yaml.v3"
 
-	"github.com/adevinta/lava/internal/assettypes"
+	"github.com/seilagamo/poc-lava-release/internal/assettypes"
 )
 
 var (

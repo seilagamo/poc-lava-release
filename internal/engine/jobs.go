@@ -15,9 +15,9 @@ import (
 	checkcatalog "github.com/adevinta/vulcan-check-catalog/pkg/model"
 	"github.com/google/uuid"
 
-	"github.com/adevinta/lava/internal/assettypes"
-	"github.com/adevinta/lava/internal/checktypes"
-	"github.com/adevinta/lava/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/assettypes"
+	"github.com/seilagamo/poc-lava-release/internal/checktypes"
+	"github.com/seilagamo/poc-lava-release/internal/config"
 )
 
 // generateJobs generates the jobs to be sent to the agent.

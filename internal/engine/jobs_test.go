@@ -12,9 +12,9 @@ import (
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
 
-	"github.com/adevinta/lava/internal/assettypes"
-	"github.com/adevinta/lava/internal/checktypes"
-	"github.com/adevinta/lava/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/assettypes"
+	"github.com/seilagamo/poc-lava-release/internal/checktypes"
+	"github.com/seilagamo/poc-lava-release/internal/config"
 )
 
 func TestGenerateChecks(t *testing.T) {

@@ -8,7 +8,7 @@ import (
 
 	types "github.com/adevinta/vulcan-types"
 
-	"github.com/adevinta/lava/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/config"
 )
 
 func TestGetTargetAddr(t *testing.T) {

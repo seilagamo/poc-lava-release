@@ -12,7 +12,7 @@ import (
 	checkcatalog "github.com/adevinta/vulcan-check-catalog/pkg/model"
 	types "github.com/adevinta/vulcan-types"
 
-	"github.com/adevinta/lava/internal/urlutil"
+	"github.com/seilagamo/poc-lava-release/internal/urlutil"
 )
 
 // ErrMalformedCatalog is returned by [NewCatalog] when the format of

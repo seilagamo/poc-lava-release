@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/adevinta/lava/cmd/lava/internal/base"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/base"
 )
 
 // Help prints the documentation of the provided command.

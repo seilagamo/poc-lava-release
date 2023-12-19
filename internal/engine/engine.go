@@ -22,10 +22,10 @@ import (
 	report "github.com/adevinta/vulcan-report"
 	types "github.com/adevinta/vulcan-types"
 
-	"github.com/adevinta/lava/internal/checktypes"
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/dockerutil"
-	"github.com/adevinta/lava/internal/metrics"
+	"github.com/seilagamo/poc-lava-release/internal/checktypes"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/dockerutil"
+	"github.com/seilagamo/poc-lava-release/internal/metrics"
 )
 
 // dockerInternalHost is the host used by the containers to access the

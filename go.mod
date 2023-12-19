@@ -1,4 +1,4 @@
-module github.com/adevinta/lava
+module github.com/seilagamo/poc-lava-release
 
 go 1.21.1
 

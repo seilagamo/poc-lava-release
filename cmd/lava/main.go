@@ -11,10 +11,10 @@ import (
 
 	"github.com/jroimartin/clilog"
 
-	"github.com/adevinta/lava/cmd/lava/internal/base"
-	"github.com/adevinta/lava/cmd/lava/internal/help"
-	"github.com/adevinta/lava/cmd/lava/internal/initialize"
-	"github.com/adevinta/lava/cmd/lava/internal/scan"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/base"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/help"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/initialize"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/scan"
 )
 
 func init() {

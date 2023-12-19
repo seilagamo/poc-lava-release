@@ -11,11 +11,11 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/adevinta/lava/cmd/lava/internal/base"
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/engine"
-	"github.com/adevinta/lava/internal/metrics"
-	"github.com/adevinta/lava/internal/report"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/base"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/engine"
+	"github.com/seilagamo/poc-lava-release/internal/metrics"
+	"github.com/seilagamo/poc-lava-release/internal/report"
 )
 
 // CmdScan represents the scan command.

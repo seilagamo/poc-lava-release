@@ -15,9 +15,9 @@ import (
 
 	report "github.com/adevinta/vulcan-report"
 
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/engine"
-	"github.com/adevinta/lava/internal/metrics"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/engine"
+	"github.com/seilagamo/poc-lava-release/internal/metrics"
 )
 
 // Writer represents a Lava report writer.

@@ -2,7 +2,7 @@
 
 package help
 
-import "github.com/adevinta/lava/cmd/lava/internal/base"
+import "github.com/seilagamo/poc-lava-release/cmd/lava/internal/base"
 
 // HelpLavaYAML documents the configuration file format.
 var HelpLavaYAML = &base.Command{

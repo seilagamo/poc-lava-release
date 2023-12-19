@@ -23,9 +23,9 @@ import (
 	"github.com/docker/docker/pkg/archive"
 	"github.com/jroimartin/clilog"
 
-	"github.com/adevinta/lava/internal/assettypes"
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/dockerutil"
+	"github.com/seilagamo/poc-lava-release/internal/assettypes"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/dockerutil"
 )
 
 func TestMain(m *testing.M) {

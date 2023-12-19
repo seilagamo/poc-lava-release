@@ -11,7 +11,7 @@ import (
 
 	"github.com/fatih/color"
 
-	"github.com/adevinta/lava/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/config"
 )
 
 // humanPrinter represents a human-readable report printer.

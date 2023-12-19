@@ -9,7 +9,7 @@ import (
 
 	vreport "github.com/adevinta/vulcan-report"
 
-	"github.com/adevinta/lava/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/config"
 )
 
 func TestUserFriendlyPrinter_Print(t *testing.T) {

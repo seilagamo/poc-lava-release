@@ -18,9 +18,9 @@ import (
 	types "github.com/adevinta/vulcan-types"
 	"github.com/jroimartin/proxy"
 
-	"github.com/adevinta/lava/internal/assettypes"
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/gitserver"
+	"github.com/seilagamo/poc-lava-release/internal/assettypes"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/gitserver"
 )
 
 // targetMap maps a target identifier with its updated value.

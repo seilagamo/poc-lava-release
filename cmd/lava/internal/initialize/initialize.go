@@ -10,7 +10,7 @@ import (
 	"io/fs"
 	"os"
 
-	"github.com/adevinta/lava/cmd/lava/internal/base"
+	"github.com/seilagamo/poc-lava-release/cmd/lava/internal/base"
 )
 
 // CmdInit represents the init command.

@@ -12,8 +12,8 @@ import (
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
 
-	"github.com/adevinta/lava/internal/config"
-	"github.com/adevinta/lava/internal/engine"
+	"github.com/seilagamo/poc-lava-release/internal/config"
+	"github.com/seilagamo/poc-lava-release/internal/engine"
 )
 
 func TestWriter_calculateExitCode(t *testing.T) {
