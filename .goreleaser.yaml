@@ -29,9 +29,9 @@ builds:
 
 archives:
   - format: tar.gz
-    name_template: '{{.ProjectName}}_{{.Os}}_{{.Arch}}{{if .Arm}}v{{.Arm }}{{end}}'
+    name_template: '{{.ProjectName}}_{{.Os}}_{{.Arch}}{{if .Arm}}v{{.Arm}}{{end}}'
 
 release:
   footer: |
-    **Full Changelog**: https://github.com/seilagamo/poc-lava-release/compare/{{ .PreviousTag }}...{{ .Tag }}
+    **Full Changelog**: https://github.com/seilagamo/poc-lava-release/compare/{{.PreviousTag}}...{{.Tag}}
   prerelease: auto
