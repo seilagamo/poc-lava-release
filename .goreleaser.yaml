@@ -23,7 +23,7 @@ builds:
     ignore:
       - goos: darwin
         goarch: arm
-    mod_timestamp: '{{ .CommitTimestamp }}'
+    mod_timestamp: '{{.CommitTimestamp}}'
     ldflags:
       - -s -w
 
